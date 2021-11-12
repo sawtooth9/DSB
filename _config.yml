@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: Data Science Blog
+description: Personal Blog to document, share, learn, and improve a data science learning journey
 github_username: sawtooth9
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "DSB"
@@ -39,8 +39,8 @@ baseurl: "/DSB" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
-    github: fastai
+    twitter: @sam_chefsky
+    github: sawtooth9
 
 # Set this to true to get LaTeX math equation support
 use_math: 
@@ -58,7 +58,7 @@ annotations: false
 show_tags: true
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics: 
+google_analytics: G-C4LQ4R6D62
 
 exclude:
   - docker-compose.yml
