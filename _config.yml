@@ -39,7 +39,7 @@ baseurl: "/DSB" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: @sam_chefsky
+    twitter: sam_chefsky
     github: sawtooth9
 
 # Set this to true to get LaTeX math equation support
@@ -58,7 +58,7 @@ annotations: false
 show_tags: true
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics: G-C4LQ4R6D62
+google_analytics: 
 
 exclude:
   - docker-compose.yml
